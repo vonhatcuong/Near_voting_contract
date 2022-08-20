@@ -1,0 +1,12 @@
+/mnt/d/Code/Rust/core-contracts/voting/target/wasm32-unknown-unknown/release/deps/borsh-31b59d9a386f7de5.rmeta: /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/mnt/d/Code/Rust/core-contracts/voting/target/wasm32-unknown-unknown/release/deps/libborsh-31b59d9a386f7de5.rlib: /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/mnt/d/Code/Rust/core-contracts/voting/target/wasm32-unknown-unknown/release/deps/borsh-31b59d9a386f7de5.d: /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs /home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs
+
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/lib.rs:
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/mod.rs:
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/de/hint.rs:
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema.rs:
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/schema_helpers.rs:
+/home/nhatcuong/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-0.7.1/src/ser/mod.rs:
